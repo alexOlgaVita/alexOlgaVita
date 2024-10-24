@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi everybody! 👋
+<ul>
+  <li>My name is Olga.</li>
+  <li>I'm from Yekaterinburg.</li>
+  <li>I graduated from the Ural State University, Faculty of Mathematics and Mechanics.</li>
+  <li>I learn Java at [Job4j](https://job4j.ru/)</li>
+  <li>I'm java-programmer.</li>
+</ul>
 
 <!--
 **alexOlgaVita/alexOlgaVita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
